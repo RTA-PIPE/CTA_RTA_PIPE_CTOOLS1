@@ -1,0 +1,18 @@
+
+# copy this file to "conf.py" and insert parameters
+
+def get_pipedb_conf():
+    host = ''
+    username = ''
+    password = ''
+    database = ''
+    port = ''
+    return {'host':host,'username':username,'password':password,'database':database,'port':port}
+
+def get_pipedb_conf():
+    host = ''
+    username = ''
+    password = ''
+    database = ''
+    port = ''
+    return {'host':host,'username':username,'password':password,'database':database,'port':port}
