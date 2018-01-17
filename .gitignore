@@ -1,4 +1,8 @@
+CTAGammaPipeCommon
+GammaPipeCommon
+CTA3GHextractor
 *.DS_Store
 conf.py
 *.pyc
 __pycache__
+ctoolsint
