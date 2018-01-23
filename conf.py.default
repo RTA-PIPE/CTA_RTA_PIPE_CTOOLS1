@@ -16,3 +16,8 @@ def get_evtdb_conf():
     database = ''
     port = ''
     return {'host':host,'username':username,'password':password,'database':database,'port':port}
+
+def get_path_conf():
+    path_base_fits = ''
+
+    return {'path_base_fits':path_base_fits}
