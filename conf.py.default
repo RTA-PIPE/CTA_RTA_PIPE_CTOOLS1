@@ -21,3 +21,7 @@ def get_path_conf():
     path_base_fits = ''
 
     return {'path_base_fits':path_base_fits}
+
+def get_data_repository():
+    datarepositoryid = ''
+    return {'datarepositoryid':datarepositoryid}
