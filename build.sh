@@ -6,3 +6,4 @@ cd ..
 git clone https://github.com/RTA-PIPE/CTAGammaPipeCommon.git
 git clone https://github.com/RTA-PIPE/CTA3GHextractor.git
 git clone https://github.com/RTA-PIPE/ctoolsint.git
+git clone https://github.com/RTA-PIPE/ScientificGUI.git
